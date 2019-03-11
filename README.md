@@ -18,6 +18,8 @@ https://github.com/AgID/lg-acquisizione-e-riuso-software-per-pa-docs
 https://www.ict.govt.nz/guidance-and-resources/open-government/new-zealand-government-open-access-and-licensing-nzgoal-framework/nzgoal-se/
 
 ### Spain
+Spain Central Government (within the general context of Reuse)
+https://administracionelectronica.gob.es/pae_Home/pae_Estrategias/pae_Interoperabilidad_Inicio/pae_Normas_tecnicas_de_interoperabilidad.html#REUTILIZACIONRECURSOS
 Barcelona
  https://www.barcelona.cat/digitalstandards/en/init/0.1/index.html
 
