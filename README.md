@@ -3,6 +3,11 @@
 
 ## National policies
 
+### Australia
+Digital Standards (2016) https://guides.service.gov.au/digital-service-standard/8-make-source-code-open/ 
+
+Queensland (2009) https://www.qgcio.qld.gov.au/documents/open-source-software-policy
+
 ### Canada
 Montreal OSS & Open Hardware Policy: https://ville.montreal.qc.ca/pls/portal/docs/PAGE/PRT_VDM_FR/MEDIA/DOCUMENTS/politique_materiel_libres_en.pdf
  https://github.com/canada-ca/Open_First_Whitepaper
@@ -20,7 +25,8 @@ https://www.ict.govt.nz/guidance-and-resources/open-government/new-zealand-gover
 ### Spain
 Spain Central Government (within the general context of Reuse)
 https://administracionelectronica.gob.es/pae_Home/pae_Estrategias/pae_Interoperabilidad_Inicio/pae_Normas_tecnicas_de_interoperabilidad.html#REUTILIZACIONRECURSOS
-Barcelona
+
+Barcelona (2017)
  https://www.barcelona.cat/digitalstandards/en/init/0.1/index.html
 
 ### Sweden
@@ -49,9 +55,10 @@ Open Government Partnerships
 
 
 ## Government Code Sharing Sites
-* Euopean Union
+* Australia https://github.com/AusDTO
+* Euopean Union https://joinup.ec.europa.eu/
 * Italy https://developers.italia.it/
-* Spain
+* Spain https://administracionelectronica.gob.es/pae_Home/pae_SolucionesCTT/pae_CTT_Forja_CTT and https://github.com/ctt-gob-es
 * United States
 * California
 
